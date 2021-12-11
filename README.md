@@ -6,8 +6,9 @@ so basically, if you haven't noticed, roblox patched corner clip.
 1. open your game in studio.
 2. put the rbxm file into your game.<br><br>
 ![5i0v9q3IC](https://user-images.githubusercontent.com/92669198/145666110-0c763852-5248-45a7-a881-20dc4ec84141.gif) <br><br>
-3. put the localscript and the audio inside of StarterPlayerScripts
-3. done!
+3. put the localscript and the audio inside of StarterPlayerScripts<br><br>
+![5i0AFCruN](https://user-images.githubusercontent.com/92669198/145666728-0f692426-5c7b-4db1-880c-b081122159c0.gif) <br><br>
+
 # how to use:
 - pc: press f to corner clip
 - console: press x to corner clip
