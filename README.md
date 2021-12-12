@@ -13,7 +13,7 @@ so basically, if you haven't noticed, roblox patched corner clip.
 5. (optional) you may need to mess with the rotation of the brick if it doesn't clip you correctly
 # how to use:
 - pc: press f to corner clip
-- console: press x to corner clipb
+- console: press x to corner clip
 - mobile/tablet: tapping the center of the screen to corner clip
 # credit:
 jay toe (jtoh): https://www.roblox.com/games/2919924313/Jukes-Towers-of-Hell
