@@ -26,6 +26,8 @@ so basically, if you haven't noticed, roblox patched corner clip.
   + for mobile: <br><br>
     ![t](https://axtrct.please-end.me/5ii6qTFd2.png) <br>
   it's kind of hard so i suggest you dont change it on mobile.
+## flip in action:
+  ![action](https://axtrct.please-end.me/5ii9VyomH.gif)
 # credit:
 jay toe (jtoh): https://www.roblox.com/games/2919924313/Jukes-Towers-of-Hell
 ## something:
