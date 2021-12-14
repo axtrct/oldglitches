@@ -11,27 +11,20 @@ so basically, if you haven't noticed, roblox patched corner clip.
 4. add a boolvalue named ``CanFlip`` to the brick that you want to clip through<br><br>
 ![5i0DLw39H](https://user-images.githubusercontent.com/92669198/145667021-c9718360-6927-49a6-b4e3-f249c0f1b605.gif) <br><br>
 5. (optional) you may need to mess with the rotation of the brick if it doesn't clip you correctly
-# how to use:![68747470733a2f2f6178747263742e706c656173652d656e642e6d652f356969353743424e482e676966](https://user-images.githubusercontent.com/92669198/145947639-6675fdd5-da20-45f3-a2e3-ff36f5f75fd0.gif)![68747470733a2f2f6178747263742e706c656173652d656e642e6d652f356969353743424e482e676966](https://user-images.githubusercontent.com/92669198/145947641-37631a07-6ea5-43df-b6c6-0d5ef1812017.gif)
-
-
+# how to use:
 - pc: press f to corner clip
-- console: press x to corner clip![68747470733a2f2f6178747263742e706c656173652d656e642e6d652f356969347538586e352e676966](https://user-images.githubusercontent.com/92669198/145947638-0103d75d-027b-4010-a657-dda551d02042.gif)
+- console: press x to corner clip
 
 - mobile/tablet: tapping the center of the screen to corner clip
 ## note:
-- you can change the keybind from f to other key: <br><br>![68747470733a2f2f6178747263742e706c656173652d656e642e6d652f3569693671544664322e706e67](https://user-images.githubusercontent.com/92669198/145948355-7b630868-b4b4-4c52-b50e-261529449dd1.png)
-
+- you can change the keybind from f to other key: <br><br>
 ![image](https://axtrct.please-end.me/5ii5PybVt.png) <br><br>
-  + for pc: <br><br>![145667083-a95b8ab3-5883-4b4e-9253-c958cc92ff79](https://user-images.githubusercontent.com/92669198/145948335-cb80a44b-602f-403c-bff7-37cdcfe26e07.png)
-
+  + for pc: <br><br>
     ![5ii4u8Xn5](https://axtrct.please-end.me/5ii4u8Xn5.gif) <br><br>
   + for console: <br><br>
     ![5ii57CBNH](https://axtrct.please-end.me/5ii57CBNH.gif)<br><br>
   + for mobile: <br><br>
-    ![t](https://axtrct.please-end.me/5ii6qTFd2.png) <br>![68747470733a2f2f6178747263742e706c656173652d656e642e6d652f3569693671544664322e706e67](https://user-images.githubusercontent.com/92669198/145948310-db897ac7-1749-4b47-9c30-de92760e796f.png)![68747470733a2f2f6178747263742e706c656173652d656e642e6d652f3569693671544664322e706e67](https://user-images.githubusercontent.com/92669198/145948312-e4964ce0-ceae-4bb4-9caa-362d50f5bbe4.png)![145667083-a95b8ab3-5883-4b4e-9253-c958cc92ff79](https://user-images.githubusercontent.com/92669198/145948338-c382b1ba-91e5-4844-8dd8-c31722ef5e92.png)
-
-
-
+    ![t](https://axtrct.please-end.me/5ii6qTFd2.png) <br>
   it's kind of hard so i suggest you dont change it on mobile.
 # credit:
 jay toe (jtoh): https://www.roblox.com/games/2919924313/Jukes-Towers-of-Hell
